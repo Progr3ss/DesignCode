@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		915A08D226621DAC00CD9421 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915A08D126621DAC00CD9421 /* HomeView.swift */; };
 		917E592126603F28003FC0BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917E592026603F28003FC0BC /* AppDelegate.swift */; };
 		917E592326603F28003FC0BC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917E592226603F28003FC0BC /* SceneDelegate.swift */; };
 		917E592526603F28003FC0BC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917E592426603F28003FC0BC /* ContentView.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		915A08D126621DAC00CD9421 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		917E591D26603F28003FC0BC /* DesignCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		917E592026603F28003FC0BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		917E592226603F28003FC0BC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				91BBB4E42661E30800B3B4A3 /* MenuView.swift */,
 				917E592B26603F2B003FC0BC /* LaunchScreen.storyboard */,
 				917E592626603F2B003FC0BC /* Assets.xcassets */,
+				915A08D126621DAC00CD9421 /* HomeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				917E592126603F28003FC0BC /* AppDelegate.swift in Sources */,
 				91BBB4E52661E30800B3B4A3 /* MenuView.swift in Sources */,
 				91BBB4E7266200BB00B3B4A3 /* Home.swift in Sources */,
+				915A08D226621DAC00CD9421 /* HomeView.swift in Sources */,
 				917E592326603F28003FC0BC /* SceneDelegate.swift in Sources */,
 				917E592526603F28003FC0BC /* ContentView.swift in Sources */,
 			);
